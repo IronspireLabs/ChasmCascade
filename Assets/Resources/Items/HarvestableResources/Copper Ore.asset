@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bb07574eff62a940ab3f6de76c3304f, type: 3}
+  m_Name: Copper Ore
+  m_EditorClassIdentifier: Assembly-CSharp::ItemPreset
+  uid: ed69db56776f50d4a98c812c6a9bb05c
+  itemName: Copper Ore
+  prefab: {fileID: 2867675951525761939, guid: 5decd739d6ab93f479cc5d0461f152ce, type: 3}
+  icon: {fileID: 21300000, guid: 9c64519d3e4c7f242bd3d948be4513f5, type: 3}
+  canStack: 0
+  itemType: 2
+  health: 0
+  isFood: 0
+  equipmentSlot: 0
+  meleeAttackBonus: 0
+  magicAttackBonus: 0
+  archeryAttackBonus: 0
+  meleeDefenceBonus: 0
+  magicDefenceBonus: 0
+  archeryDefenceBonus: 0
+  attackStyle: 0
+  fps_EquipmentPrefab: {fileID: 0}
+  tps_EquipmentPrefab: {fileID: 0}
+  skillEquipment: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bb07574eff62a940ab3f6de76c3304f, type: 3}
+  m_Name: Iron Shield
+  m_EditorClassIdentifier: Assembly-CSharp::ItemPreset
+  uid: 137e7de8f54ab3a4b9a1bc23edc5fff0
+  itemName: Iron Shield
+  prefab: {fileID: 1885841998160097140, guid: 11c7b33afbc86f54da0178be55f4221b, type: 3}
+  icon: {fileID: 21300000, guid: b9722b11e7715be4fbf76ead89d445a3, type: 3}
+  canStack: 0
+  itemType: 1
+  health: 0
+  isFood: 0
+  equipmentSlot: 5
+  meleeAttackBonus: 0
+  magicAttackBonus: 0
+  archeryAttackBonus: 0
+  meleeDefenceBonus: 7
+  magicDefenceBonus: 2
+  archeryDefenceBonus: 3
+  attackStyle: 0
+  fps_EquipmentPrefab: {fileID: 4135035183410013743, guid: bafbd19f10d61dd4fb4138fe19bdfb20, type: 3}
+  tps_EquipmentPrefab: {fileID: 7012367037288325350, guid: 880f7c3778ed5ea4c9180672e9fa2e3d, type: 3}
+  skillEquipment: 0
